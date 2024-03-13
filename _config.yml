@@ -1,0 +1,14 @@
+title: My Awesome Site
+email: your-email@example.com
+description: >- # 这是你网站的简介
+  This is my awesome site where I blog about my adventures.
+baseurl: "" # 项目的子路径，例如：/blog
+url: "http://yourdomain.com" # 网站的域名
+twitter_username: johndoe
+github_username:  johndoe
+
+# 构建设置
+markdown: kramdown
+theme: minima # 使用的主题
+plugins:
+  - jekyll-feed
