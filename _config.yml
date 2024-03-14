@@ -37,10 +37,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   HTML5 UP's sleek, responsive site template Prologue.
 author: 里昂中国学生学者联合会
 email:
-author: 里昂中国学生学者联合会
-email: 
-avatar:https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/309110597_390021746669660_6621774106396213945_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=SReugXOm_ZIAX8imSkP&_nc_ht=scontent-cdg4-2.xx&oh=00_AfAgJ3jaCcKEqPayh1DvaPeZ-bHd24mbaNRtr4nKNJodoQ&oe=65F721D8
-
+avatar:
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
